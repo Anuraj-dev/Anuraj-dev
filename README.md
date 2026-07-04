@@ -4,24 +4,24 @@
 
 <div align="center">
 
-_Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-stack web apps — somewhere among the stars_ 🛰️
+_Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-stack web apps — somewhere among the stars_
 
 </div>
 
 ---
 
-### 🪐 About me
+### About me
 
-- 🎓 BS in Data Science &amp; Applications @ **IIT Madras**
-- 🔭 Currently building **A Meet** (full-stack video conferencing with my own SFU) and a **2D virtual-office metaverse**
-- 💼 Freelancing — shipping production websites for real clients
-- 🧰 I love **real-time systems, developer tools, and space tech**
-- 💬 Ask me about **Node/Express, Socket.IO, React, Vue, or deploying on AWS**
-- 📫 Reach me at **rajasaikia1644@gmail.com**
+- BS in Data Science &amp; Applications @ **IIT Madras**
+- Currently building **A Meet** (full-stack video conferencing with my own SFU) and a **2D virtual-office metaverse**
+- Freelancing — shipping production websites for real clients
+- I love **real-time systems, developer tools, and space tech**
+- Ask me about **Node/Express, Socket.IO, React, Vue, or deploying on AWS**
+- Reach me at **rajasaikia1644@gmail.com**
 
 ---
 
-### 🛰️ Tech Stack
+### Tech Stack
 
 **Languages**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -50,7 +50,7 @@ _Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-s
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <!-- Links assume these repos are PUBLIC. Make A-Meet / 2d-metaverse / maya public first,
      or the links 404. Public today: Khata, ai-usage-monitor, Sundarbans House. -->
@@ -64,7 +64,7 @@ _Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-s
 
 ---
 
-### 📡 Connect
+### Connect
 
 <p align="center">
   <a href="mailto:rajasaikia1644@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -74,4 +74,4 @@ _Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-s
   -->
 </p>
 
-<sub>✦ The starfield above is generated nightly from my real GitHub activity — planets are my languages, the supernova is my busiest day, and "first light" is the day this account was born. <a href="./scripts/generate_space_telemetry.py">See how it's built →</a></sub>
+<sub>The starfield above is generated nightly from my real GitHub activity — planets are my languages, the supernova is my busiest day, and "first light" is the day this account was born. <a href="./scripts/generate_space_telemetry.py">See how it's built →</a></sub>
