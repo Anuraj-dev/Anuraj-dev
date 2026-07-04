@@ -17,7 +17,7 @@ _Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-s
 - 💼 Freelancing — shipping production websites for real clients
 - 🧰 I love **real-time systems, developer tools, and space tech**
 - 💬 Ask me about **Node/Express, Socket.IO, React, Vue, or deploying on AWS**
-- 📫 Reach me at **<PLACEHOLDER: email or preferred contact>**
+- 📫 Reach me at **rajasaikia1644@gmail.com**
 
 ---
 
@@ -67,9 +67,11 @@ _Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-s
 ### 📡 Connect
 
 <p align="center">
-  <a href="<PLACEHOLDER: LinkedIn URL>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="<PLACEHOLDER: portfolio live URL>"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:<PLACEHOLDER: email>"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:rajasaikia1644@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- When ready, drop in your URLs and uncomment these:
+  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  -->
 </p>
 
 <sub>✦ The starfield above is generated nightly from my real GitHub activity — planets are my languages, the supernova is my busiest day, and "first light" is the day this account was born. <a href="./scripts/generate_space_telemetry.py">See how it's built →</a></sub>
