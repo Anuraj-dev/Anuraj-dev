@@ -1,0 +1,44 @@
+name: Refresh space
+
+on:
+  schedule:
+    - cron: "20 1 * * *"        # every day, 01:20 UTC
+  workflow_dispatch:            # ...and on demand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-space
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      # Default GITHUB_TOKEN sees PUBLIC repos/contributions only.
+      # To include PRIVATE repos in the language mix + counts, create a
+      # classic PAT with `repo` + `read:user` scope, save it as the repo
+      # secret PROFILE_TOKEN, and it will be used automatically.
+      GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Draw the sky
+        run: python3 scripts/generate_space_telemetry.py
+
+      - name: Commit if the sky changed
+        run: |
+          if git diff --quiet -- assets/space.svg assets/space.json; then
+            echo "No change in the stars tonight."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/space.svg assets/space.json
+          git commit -m "chore: refresh space vista"
+          git push

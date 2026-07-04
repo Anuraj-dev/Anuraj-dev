@@ -1,0 +1,6 @@
+# local preview / scratch — not part of the profile repo
+preview.html
+httpd.log
+__pycache__/
+*.pyc
+.DS_Store
