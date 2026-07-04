@@ -52,12 +52,9 @@ _Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-s
 
 ### Featured Projects
 
-<!-- Links assume these repos are PUBLIC. Make A-Meet / 2d-metaverse / maya public first,
-     or the links 404. Public today: Khata, ai-usage-monitor, Sundarbans House. -->
-
-- **[A Meet](https://github.com/Anuraj-dev/A-Meet)** — Full-stack video-conferencing platform built on my own SFU (mediasoup): live captions, scheduled meetings, reconnect handling, deployed on AWS EC2 with Grafana/Loki observability. `Node · MongoDB · Socket.IO · React · Docker`
-- **[2D Metaverse](https://github.com/Anuraj-dev/2d-metaverse)** — Gather-style virtual office — walk a 2D space with proximity voice chat, key-gated meeting rooms, and built-in arcade &amp; board minigames. `Node · Socket.IO · Postgres · Redis · LiveKit · React · Phaser`
-- **[maya](https://github.com/Anuraj-dev/maya)** — A voice assistant: speak → a Claude tool-use agent acts through gated shell/browser/app tools → replies via TTS, with an Electron overlay and live task queue. `Bun · Anthropic API · Electron · Playwright`
+- **[Tales of Veridia](https://github.com/Anuraj-dev/pokemon)** — 3D creature-collecting RPG that runs fully in the browser, entirely procedural: sprites, world, and music generated in code, with a from-scratch battle engine and a unit-tested core. `Three.js · Web Audio`
+- **[Student ERP](https://github.com/Anuraj-dev/student_erp)** — Flask ERP backend for an education department: admissions, fees, hostel &amp; library modules, JWT auth, a real-time SocketIO dashboard, and PDF + QR document generation, backed by a large pytest suite. `Flask · SocketIO · JWT · pytest`
+- **[GoCareer](https://github.com/Anuraj-dev/GoCareer)** — AI career guidance for rural Indian students, powered by Gemini 2.0 Flash with an offline fallback dataset. `Express · Gemini 2.0 Flash`
 - **[Khata](https://github.com/Anuraj-dev/Khata)** — Personal-finance PWA for India: auto-logs UPI spends from SMS, tracks *udhaar* by person, and splits trip expenses. `React 19 · Convex · Capacitor · Tailwind`
 - **[AI Usage Monitor](https://github.com/Anuraj-dev/ai-usage-monitor)** — Local dashboard that tracks token usage and estimated cost across Claude Code, Codex, and OpenCode — no proxy or API key needed. `Python · FastAPI · SQLite`
 - **[Sundarbans House](https://github.com/SundarbansWebOps/Frontend)** — Centralized platform for events, resources, and team collaboration for my IIT Madras BS student house. `Vue 3 · Vite`
@@ -68,8 +65,7 @@ _Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-s
 
 <p align="center">
   <a href="mailto:rajasaikia1644@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- When ready, drop in your URLs and uncomment these:
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- Portfolio is being rebuilt — drop in the URL and uncomment once it's live:
   <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   -->
 </p>
