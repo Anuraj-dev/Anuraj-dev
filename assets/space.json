@@ -1,84 +1,74 @@
 {
   "name": "Anuraj Jit Saikia",
   "login": "Anuraj-dev",
-  "contributions": 410,
-  "commits": 295,
-  "prs": 93,
-  "repos": 46,
+  "contributions": 892,
+  "commits": 519,
+  "prs": 231,
+  "repos": 26,
   "stars": 2,
-  "lang_count": 13,
+  "lang_count": 11,
   "langs": [
     {
       "name": "TypeScript",
-      "pct": 48.67142047310657,
+      "pct": 52.43616207997678,
       "color": "#3178c6"
     },
     {
       "name": "Python",
-      "pct": 15.153144177126038,
+      "pct": 17.3805694721659,
       "color": "#3572A5"
     },
     {
       "name": "JavaScript",
-      "pct": 11.504915075163543,
+      "pct": 8.144896632916698,
       "color": "#f1e05a"
     },
     {
-      "name": "CSS",
-      "pct": 7.029054787241491,
-      "color": "#663399"
-    },
-    {
       "name": "HTML",
-      "pct": 6.162952962895972,
+      "pct": 6.820386400543028,
       "color": "#e34c26"
     },
     {
+      "name": "CSS",
+      "pct": 6.033591580488966,
+      "color": "#663399"
+    },
+    {
       "name": "EJS",
-      "pct": 5.913391838537071,
+      "pct": 5.633253041512131,
       "color": "#a91e50"
     },
     {
-      "name": "Shell",
-      "pct": 2.1672899679979145,
-      "color": "#89e051"
-    },
-    {
       "name": "Java",
-      "pct": 1.2822776234701787,
+      "pct": 1.4352025146220935,
       "color": "#b07219"
     },
     {
       "name": "Kotlin",
-      "pct": 0.9132770762199343,
+      "pct": 1.1019760706103543,
       "color": "#A97BFF"
     },
     {
-      "name": "C++",
-      "pct": 0.8421388751069852,
-      "color": "#f34b7d"
-    },
-    {
-      "name": "PLpgSQL",
-      "pct": 0.15044690178554287,
-      "color": "#336790"
-    },
-    {
-      "name": "Lua",
-      "pct": 0.12192233088473374,
-      "color": "#000080"
+      "name": "Shell",
+      "pct": 0.8136710106928222,
+      "color": "#89e051"
     },
     {
       "name": "Dockerfile",
-      "pct": 0.08776791046402807,
+      "pct": 0.10590229363814614,
       "color": "#384d54"
+    },
+    {
+      "name": "PLpgSQL",
+      "pct": 0.09438890283307795,
+      "color": "#336790"
     }
   ],
-  "active_days": 76,
-  "window_days": 371,
-  "longest_streak": 10,
+  "active_days": 88,
+  "window_days": 365,
+  "longest_streak": 21,
   "biggest_day": 63,
   "biggest_date": "Jun 4",
   "born": "Dec 8, 2024",
-  "generated": "2026-07-04"
+  "generated": "2026-07-05"
 }
