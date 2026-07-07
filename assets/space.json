@@ -1,74 +1,74 @@
 {
   "name": "Anuraj Jit Saikia",
   "login": "Anuraj-dev",
-  "contributions": 895,
-  "commits": 519,
-  "prs": 234,
+  "contributions": 899,
+  "commits": 522,
+  "prs": 235,
   "repos": 26,
   "stars": 2,
   "lang_count": 11,
   "langs": [
     {
       "name": "TypeScript",
-      "pct": 52.43616207997678,
+      "pct": 52.505982609863224,
       "color": "#3178c6"
     },
     {
       "name": "Python",
-      "pct": 17.3805694721659,
+      "pct": 17.355055959729935,
       "color": "#3572A5"
     },
     {
       "name": "JavaScript",
-      "pct": 8.144896632916698,
+      "pct": 8.13294046992294,
       "color": "#f1e05a"
     },
     {
       "name": "HTML",
-      "pct": 6.820386400543028,
+      "pct": 6.8103745299005265,
       "color": "#e34c26"
     },
     {
       "name": "CSS",
-      "pct": 6.033591580488966,
+      "pct": 6.02473467197001,
       "color": "#663399"
     },
     {
       "name": "EJS",
-      "pct": 5.633253041512131,
+      "pct": 5.62498380316757,
       "color": "#a91e50"
     },
     {
       "name": "Java",
-      "pct": 1.4352025146220935,
+      "pct": 1.4330957334108347,
       "color": "#b07219"
     },
     {
       "name": "Kotlin",
-      "pct": 1.1019760706103543,
+      "pct": 1.100358443510927,
       "color": "#A97BFF"
     },
     {
       "name": "Shell",
-      "pct": 0.8136710106928222,
+      "pct": 0.8124765961206565,
       "color": "#89e051"
     },
     {
       "name": "Dockerfile",
-      "pct": 0.10590229363814614,
+      "pct": 0.10574683616075675,
       "color": "#384d54"
     },
     {
       "name": "PLpgSQL",
-      "pct": 0.09438890283307795,
+      "pct": 0.09425034624262185,
       "color": "#336790"
     }
   ],
   "active_days": 89,
-  "window_days": 366,
+  "window_days": 367,
   "longest_streak": 22,
   "biggest_day": 63,
   "biggest_date": "Jun 4",
   "born": "Dec 8, 2024",
-  "generated": "2026-07-06"
+  "generated": "2026-07-07"
 }
