@@ -1,74 +1,74 @@
 {
   "name": "Anuraj Jit Saikia",
   "login": "Anuraj-dev",
-  "contributions": 899,
-  "commits": 522,
-  "prs": 235,
-  "repos": 26,
+  "contributions": 964,
+  "commits": 554,
+  "prs": 240,
+  "repos": 27,
   "stars": 2,
   "lang_count": 11,
   "langs": [
     {
       "name": "TypeScript",
-      "pct": 52.505982609863224,
+      "pct": 56.68441409704797,
       "color": "#3178c6"
     },
     {
       "name": "Python",
-      "pct": 17.355055959729935,
+      "pct": 13.648367204704993,
       "color": "#3572A5"
     },
     {
-      "name": "JavaScript",
-      "pct": 8.13294046992294,
-      "color": "#f1e05a"
-    },
-    {
       "name": "HTML",
-      "pct": 6.8103745299005265,
+      "pct": 10.149945181769644,
       "color": "#e34c26"
     },
     {
+      "name": "JavaScript",
+      "pct": 7.526250935713907,
+      "color": "#f1e05a"
+    },
+    {
       "name": "CSS",
-      "pct": 6.02473467197001,
+      "pct": 4.811478271738111,
       "color": "#663399"
     },
     {
       "name": "EJS",
-      "pct": 5.62498380316757,
+      "pct": 4.393786452085334,
       "color": "#a91e50"
     },
     {
       "name": "Java",
-      "pct": 1.4330957334108347,
+      "pct": 1.1194195109425882,
       "color": "#b07219"
     },
     {
       "name": "Kotlin",
-      "pct": 1.100358443510927,
+      "pct": 0.859511812071966,
       "color": "#A97BFF"
     },
     {
       "name": "Shell",
-      "pct": 0.8124765961206565,
+      "pct": 0.6506047666726896,
       "color": "#89e051"
     },
     {
       "name": "Dockerfile",
-      "pct": 0.10574683616075675,
+      "pct": 0.08260095181294146,
       "color": "#384d54"
     },
     {
       "name": "PLpgSQL",
-      "pct": 0.09425034624262185,
+      "pct": 0.07362081543985687,
       "color": "#336790"
     }
   ],
-  "active_days": 89,
-  "window_days": 367,
-  "longest_streak": 22,
+  "active_days": 90,
+  "window_days": 368,
+  "longest_streak": 23,
   "biggest_day": 63,
   "biggest_date": "Jun 4",
   "born": "Dec 8, 2024",
-  "generated": "2026-07-07"
+  "generated": "2026-07-08"
 }
