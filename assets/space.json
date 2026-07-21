@@ -1,79 +1,79 @@
 {
   "name": "Anuraj Jit Saikia",
   "login": "Anuraj-dev",
-  "contributions": 1394,
-  "commits": 819,
-  "prs": 321,
+  "contributions": 1454,
+  "commits": 869,
+  "prs": 328,
   "repos": 28,
   "stars": 3,
   "lang_count": 12,
   "langs": [
     {
       "name": "TypeScript",
-      "pct": 51.14387136071823,
+      "pct": 50.467305976226875,
       "color": "#3178c6"
     },
     {
       "name": "Rust",
-      "pct": 13.581685740038619,
+      "pct": 13.588800081146683,
       "color": "#dea584"
     },
     {
       "name": "Python",
-      "pct": 10.806886038053863,
+      "pct": 10.663925311519852,
       "color": "#3572A5"
     },
     {
       "name": "HTML",
-      "pct": 7.933615150863845,
+      "pct": 7.828663976028197,
       "color": "#e34c26"
     },
     {
       "name": "JavaScript",
-      "pct": 6.685952421203938,
+      "pct": 6.597506164591125,
       "color": "#f1e05a"
     },
     {
       "name": "CSS",
-      "pct": 3.9263699313834346,
+      "pct": 3.8744292802046103,
       "color": "#663399"
     },
     {
       "name": "EJS",
-      "pct": 3.434364436621214,
+      "pct": 3.388932363652825,
       "color": "#a91e50"
     },
     {
-      "name": "Java",
-      "pct": 0.8749843898800548,
-      "color": "#b07219"
-    },
-    {
       "name": "Shell",
-      "pct": 0.8170888974030707,
+      "pct": 1.942364897688535,
       "color": "#89e051"
     },
     {
+      "name": "Java",
+      "pct": 0.8634095103409628,
+      "color": "#b07219"
+    },
+    {
       "name": "Kotlin",
-      "pct": 0.6718298288791041,
+      "pct": 0.6629424139377811,
       "color": "#A97BFF"
     },
     {
       "name": "Dockerfile",
-      "pct": 0.06580674374172239,
+      "pct": 0.06493620806076612,
       "color": "#384d54"
     },
     {
       "name": "PLpgSQL",
-      "pct": 0.05754506121290844,
+      "pct": 0.05678381660178984,
       "color": "#336790"
     }
   ],
-  "active_days": 99,
-  "window_days": 366,
+  "active_days": 100,
+  "window_days": 367,
   "longest_streak": 29,
   "biggest_day": 115,
   "biggest_date": "Jul 18",
   "born": "Dec 8, 2024",
-  "generated": "2026-07-20"
+  "generated": "2026-07-21"
 }
