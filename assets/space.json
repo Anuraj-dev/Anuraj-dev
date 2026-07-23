@@ -1,79 +1,79 @@
 {
   "name": "Anuraj Jit Saikia",
   "login": "Anuraj-dev",
-  "contributions": 1500,
-  "commits": 907,
-  "prs": 336,
+  "contributions": 1518,
+  "commits": 919,
+  "prs": 341,
   "repos": 28,
   "stars": 3,
   "lang_count": 12,
   "langs": [
     {
       "name": "TypeScript",
-      "pct": 50.3520470395524,
+      "pct": 49.46150226439145,
       "color": "#3178c6"
     },
     {
       "name": "Rust",
-      "pct": 13.760357099806097,
+      "pct": 15.285623060417114,
       "color": "#dea584"
     },
     {
       "name": "Python",
-      "pct": 10.639570678982885,
+      "pct": 10.451395328918546,
       "color": "#3572A5"
     },
     {
       "name": "HTML",
-      "pct": 7.810784609020103,
+      "pct": 7.672640207105192,
       "color": "#e34c26"
     },
     {
       "name": "JavaScript",
-      "pct": 6.582438557344719,
+      "pct": 6.466019134308021,
       "color": "#f1e05a"
     },
     {
       "name": "CSS",
-      "pct": 3.8655807278513867,
+      "pct": 3.797212649043254,
       "color": "#663399"
     },
     {
       "name": "EJS",
-      "pct": 3.3811926055432813,
+      "pct": 3.321391592759945,
       "color": "#a91e50"
     },
     {
       "name": "Shell",
-      "pct": 1.9637206552977153,
+      "pct": 1.9289895714139296,
       "color": "#89e051"
     },
     {
       "name": "Java",
-      "pct": 0.861437626560929,
+      "pct": 0.846201924686519,
       "color": "#b07219"
     },
     {
       "name": "Kotlin",
-      "pct": 0.6614283636783346,
+      "pct": 0.6497300989989601,
       "color": "#A97BFF"
     },
     {
       "name": "Dockerfile",
-      "pct": 0.06478790455718142,
+      "pct": 0.06364204191029235,
       "color": "#384d54"
     },
     {
       "name": "PLpgSQL",
-      "pct": 0.056654131804964675,
+      "pct": 0.055652126046776544,
       "color": "#336790"
     }
   ],
-  "active_days": 100,
-  "window_days": 368,
+  "active_days": 102,
+  "window_days": 369,
   "longest_streak": 29,
   "biggest_day": 115,
   "biggest_date": "Jul 18",
   "born": "Dec 8, 2024",
-  "generated": "2026-07-22"
+  "generated": "2026-07-23"
 }
