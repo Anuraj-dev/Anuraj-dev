@@ -1,79 +1,79 @@
 {
   "name": "Anuraj Jit Saikia",
   "login": "Anuraj-dev",
-  "contributions": 1608,
-  "commits": 987,
-  "prs": 352,
+  "contributions": 1677,
+  "commits": 1054,
+  "prs": 354,
   "repos": 27,
   "stars": 3,
   "lang_count": 12,
   "langs": [
     {
       "name": "TypeScript",
-      "pct": 49.39565022629327,
+      "pct": 48.074643128884055,
       "color": "#3178c6"
     },
     {
       "name": "Rust",
-      "pct": 15.717169183791434,
+      "pct": 17.97117772883304,
       "color": "#dea584"
     },
     {
       "name": "Python",
-      "pct": 10.341941853970722,
+      "pct": 10.065363278175063,
       "color": "#3572A5"
     },
     {
       "name": "HTML",
-      "pct": 7.5922875741540325,
+      "pct": 7.389244072852159,
       "color": "#e34c26"
     },
     {
       "name": "JavaScript",
-      "pct": 6.5216830170701625,
+      "pct": 6.3472711100877754,
       "color": "#f1e05a"
     },
     {
       "name": "CSS",
-      "pct": 3.6221556842414198,
+      "pct": 3.5252869651359253,
       "color": "#663399"
     },
     {
       "name": "EJS",
-      "pct": 3.2866079260772607,
+      "pct": 3.1987128912541665,
       "color": "#a91e50"
     },
     {
       "name": "Shell",
-      "pct": 1.9087879997496018,
+      "pct": 1.857740539425321,
       "color": "#89e051"
     },
     {
       "name": "Java",
-      "pct": 0.8373399748463669,
+      "pct": 0.8149466660297191,
       "color": "#b07219"
     },
     {
       "name": "Kotlin",
-      "pct": 0.642925723614091,
+      "pct": 0.6257317107787445,
       "color": "#A97BFF"
     },
     {
       "name": "Dockerfile",
-      "pct": 0.07838153362367596,
+      "pct": 0.07628534576607429,
       "color": "#384d54"
     },
     {
       "name": "PLpgSQL",
-      "pct": 0.055069302567963184,
+      "pct": 0.05359656277795366,
       "color": "#336790"
     }
   ],
   "active_days": 105,
-  "window_days": 367,
+  "window_days": 368,
   "longest_streak": 29,
   "biggest_day": 115,
   "biggest_date": "Jul 18",
   "born": "Dec 8, 2024",
-  "generated": "2026-07-28"
+  "generated": "2026-07-29"
 }
