@@ -1,89 +1,89 @@
 {
   "name": "Anuraj Jit Saikia",
   "login": "Anuraj-dev",
-  "contributions": 1985,
-  "commits": 1248,
-  "prs": 426,
+  "contributions": 2021,
+  "commits": 1265,
+  "prs": 437,
   "repos": 28,
-  "stars": 3,
+  "stars": 4,
   "lang_count": 14,
   "langs": [
     {
       "name": "TypeScript",
-      "pct": 51.85201314492459,
+      "pct": 51.95322232319066,
       "color": "#3178c6"
     },
     {
       "name": "Rust",
-      "pct": 15.700290742284546,
+      "pct": 15.779781294787513,
       "color": "#dea584"
     },
     {
       "name": "Python",
-      "pct": 9.539307237035839,
+      "pct": 9.434397568211415,
       "color": "#3572A5"
     },
     {
       "name": "HTML",
-      "pct": 6.461066386846228,
+      "pct": 6.441889563964538,
       "color": "#e34c26"
     },
     {
       "name": "JavaScript",
-      "pct": 5.7110535986097455,
+      "pct": 5.694102857544565,
       "color": "#f1e05a"
     },
     {
       "name": "CSS",
-      "pct": 3.424490993625237,
+      "pct": 3.4065302800202764,
       "color": "#663399"
     },
     {
       "name": "EJS",
-      "pct": 2.794514814307894,
+      "pct": 2.7862205309147776,
       "color": "#a91e50"
     },
     {
       "name": "Shell",
-      "pct": 1.6396074495279414,
+      "pct": 1.6347409987328978,
       "color": "#89e051"
     },
     {
       "name": "PLpgSQL",
-      "pct": 1.4468334252703847,
+      "pct": 1.4425391390528333,
       "color": "#336790"
     },
     {
       "name": "Java",
-      "pct": 0.7119677847041631,
+      "pct": 0.7098546226830242,
       "color": "#b07219"
     },
     {
       "name": "Kotlin",
-      "pct": 0.5466625467807515,
+      "pct": 0.5450400203728802,
       "color": "#A97BFF"
     },
     {
       "name": "C++",
-      "pct": 0.10361927830105859,
+      "pct": 0.10331173022336768,
       "color": "#f34b7d"
     },
     {
       "name": "Dockerfile",
-      "pct": 0.06664572160907813,
+      "pct": 0.06644791320987616,
       "color": "#384d54"
     },
     {
       "name": "C",
-      "pct": 0.0019268761725430342,
+      "pct": 0.0019211570913785017,
       "color": "#555555"
     }
   ],
-  "active_days": 113,
-  "window_days": 371,
+  "active_days": 114,
+  "window_days": 365,
   "longest_streak": 29,
   "biggest_day": 115,
   "biggest_date": "Jul 18",
   "born": "Dec 8, 2024",
-  "generated": "2026-08-08"
+  "generated": "2026-08-09"
 }
