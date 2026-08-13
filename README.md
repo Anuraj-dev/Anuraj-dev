@@ -15,6 +15,7 @@ _Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-s
 I’m a software engineering student at IIT Madras building realtime systems and full-stack products.
 
 I like working on video, voice, and collaboration tools—especially the systems that make them feel reliable and easy to use.
+
 ---
 
 ### Tech Stack
