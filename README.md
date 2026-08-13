@@ -12,13 +12,9 @@ _Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-s
 
 ### About me
 
-- BS in Data Science &amp; Applications @ **IIT Madras**
-- Currently building **A Meet** (full-stack video conferencing with my own SFU) and a **2D virtual-office metaverse**
-- Freelancing — shipping production websites for real clients
-- I love **real-time systems, developer tools, and space tech**
-- Ask me about **Node/Express, Socket.IO, React, Vue, or deploying on AWS**
-- Reach me at **rajasaikia1644@gmail.com**
+I’m a software engineering student at IIT Madras building realtime systems and full-stack products.
 
+I like working on video, voice, and collaboration tools—especially the systems that make them feel reliable and easy to use.
 ---
 
 ### Tech Stack
@@ -52,13 +48,10 @@ _Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-s
 
 ### Featured Projects
 
-- **[A Meet](https://github.com/Anuraj-dev/A-Meet)** — Full-stack video-conferencing platform built on my own SFU (mediasoup): live captions, scheduled meetings, reconnect handling, deployed on AWS EC2 with Grafana/Loki observability. `Node · MongoDB · Socket.IO · React · Docker`
-- **[2D Metaverse](https://github.com/Anuraj-dev/2d-metaverse)** — Gather-style virtual office — walk a 2D space with proximity voice chat, key-gated meeting rooms, and built-in arcade &amp; board minigames. `Node · Socket.IO · Postgres · Redis · LiveKit · React · Phaser`
-- **[maya](https://github.com/Anuraj-dev/maya)** — A voice assistant: speak → a Claude tool-use agent acts through gated shell/browser/app tools → replies via TTS, with an Electron overlay and live task queue. `Bun · Anthropic API · Electron · Playwright`
-- **[Khata](https://github.com/Anuraj-dev/Khata)** — Personal-finance PWA for India: auto-logs UPI spends from SMS, tracks *udhaar* by person, and splits trip expenses. `React 19 · Convex · Capacitor · Tailwind`
-- **[AI Usage Monitor](https://github.com/Anuraj-dev/ai-usage-monitor)** — Local dashboard that tracks token usage and estimated cost across Claude Code, Codex, and OpenCode — no proxy or API key needed. `Python · FastAPI · SQLite`
-- **[Tales of Veridia](https://github.com/Anuraj-dev/pokemon)** — 3D creature-collecting RPG that runs fully in the browser, entirely procedural: sprites, world, and music generated in code, with a from-scratch battle engine and a unit-tested core. `Three.js · Web Audio`
-
+- **[A-Meet](https://github.com/Anuraj-dev/A-Meet)** — A video-conferencing platform built around a mediasoup SFU, with reconnect handling, live captions, scheduled meetings, and production observability.
+- **[Voisu](https://github.com/Anuraj-dev/voisu)** — A voice-first writing and transcription tool focused on turning spoken thoughts into reliable, usable text.
+- **[2D Metaverse](https://github.com/Anuraj-dev/2d-metaverse)** — A virtual office with proximity audio, key-gated meeting rooms, seated video calls, and browser-based games.
+- **[Khata](https://github.com/Anuraj-dev/Khata)** — A personal-finance PWA for India that helps people track UPI spending, lending, trip expenses, and budgets.
 ---
 
 ### Connect
@@ -68,4 +61,4 @@ _Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-s
   <a href="https://raja-dev.me"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<sub>The starfield above is generated nightly from my real GitHub activity — planets are my languages, the supernova is my busiest day, and "first light" is the day this account was born. <a href="./scripts/generate_space_telemetry.py">See how it's built →</a></sub>
+<sub>The starfield above is generated from my GitHub activity—a small signature from the work behind this profile. <a href="./scripts/generate_space_telemetry.py">See how it’s built →</a></sub>
