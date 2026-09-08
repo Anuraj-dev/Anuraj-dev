@@ -1,94 +1,94 @@
 {
   "name": "Anuraj Jit Saikia",
   "login": "Anuraj-dev",
-  "contributions": 2564,
-  "commits": 1585,
-  "prs": 571,
+  "contributions": 2567,
+  "commits": 1587,
+  "prs": 572,
   "repos": 31,
   "stars": 4,
   "lang_count": 15,
   "langs": [
     {
       "name": "TypeScript",
-      "pct": 44.19525515765629,
+      "pct": 44.19388089429734,
       "color": "#3178c6"
     },
     {
       "name": "Rust",
-      "pct": 25.546105646235528,
+      "pct": 25.548420810127592,
       "color": "#dea584"
     },
     {
       "name": "Python",
-      "pct": 10.327607649204728,
+      "pct": 10.327286509464109,
       "color": "#3572A5"
     },
     {
       "name": "HTML",
-      "pct": 4.876633016888386,
+      "pct": 4.876481376671664,
       "color": "#e34c26"
     },
     {
       "name": "JavaScript",
-      "pct": 4.310192583488994,
+      "pct": 4.310058556890066,
       "color": "#f1e05a"
     },
     {
       "name": "CSS",
-      "pct": 3.1808124879355404,
+      "pct": 3.180713579714776,
       "color": "#663399"
     },
     {
       "name": "EJS",
-      "pct": 2.108370448353617,
+      "pct": 2.108304888006835,
       "color": "#a91e50"
     },
     {
       "name": "Shell",
-      "pct": 1.670382895062198,
+      "pct": 1.670330954056316,
       "color": "#89e051"
     },
     {
       "name": "Vue",
-      "pct": 1.6106285761893968,
+      "pct": 1.6105784932601492,
       "color": "#41b883"
     },
     {
       "name": "PLpgSQL",
-      "pct": 1.0915887158343143,
+      "pct": 1.091554772589279,
       "color": "#336790"
     },
     {
       "name": "Java",
-      "pct": 0.5371565145278421,
+      "pct": 0.5371398115013905,
       "color": "#b07219"
     },
     {
       "name": "Kotlin",
-      "pct": 0.41243909424030556,
+      "pct": 0.4124262693356186,
       "color": "#A97BFF"
     },
     {
       "name": "C++",
-      "pct": 0.07817737201861576,
+      "pct": 0.07817494107218313,
       "color": "#f34b7d"
     },
     {
       "name": "Dockerfile",
-      "pct": 0.053196077024008054,
+      "pct": 0.05319442287766964,
       "color": "#384d54"
     },
     {
       "name": "C",
-      "pct": 0.001453765340239436,
+      "pct": 0.0014537201350147465,
       "color": "#555555"
     }
   ],
-  "active_days": 133,
-  "window_days": 366,
+  "active_days": 134,
+  "window_days": 367,
   "longest_streak": 29,
   "biggest_day": 115,
   "biggest_date": "Jul 18",
   "born": "Dec 8, 2024",
-  "generated": "2026-09-07"
+  "generated": "2026-09-08"
 }
