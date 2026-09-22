@@ -1,8 +1,8 @@
 {
   "name": "Anuraj Jit Saikia",
   "login": "Anuraj-dev",
-  "contributions": 2665,
-  "commits": 1633,
+  "contributions": 2668,
+  "commits": 1636,
   "prs": 593,
   "repos": 34,
   "stars": 5,
@@ -10,85 +10,85 @@
   "langs": [
     {
       "name": "TypeScript",
-      "pct": 40.05357672906985,
+      "pct": 39.941555762759215,
       "color": "#3178c6"
     },
     {
       "name": "Rust",
-      "pct": 28.23479205975883,
+      "pct": 28.353249747747938,
       "color": "#dea584"
     },
     {
       "name": "Python",
-      "pct": 9.359774571490151,
+      "pct": 9.333597358927083,
       "color": "#3572A5"
     },
     {
+      "name": "JavaScript",
+      "pct": 4.462549037883588,
+      "color": "#f1e05a"
+    },
+    {
       "name": "HTML",
-      "pct": 4.433565612202841,
+      "pct": 4.421165912983967,
       "color": "#e34c26"
     },
     {
       "name": "Vue",
-      "pct": 4.4242897399636245,
+      "pct": 4.411915983301108,
       "color": "#41b883"
     },
     {
-      "name": "JavaScript",
-      "pct": 4.403114755183145,
-      "color": "#f1e05a"
-    },
-    {
       "name": "CSS",
-      "pct": 3.646126773877631,
+      "pct": 3.6384451115653462,
       "color": "#663399"
     },
     {
       "name": "EJS",
-      "pct": 1.9107883238865173,
+      "pct": 1.9054442729443328,
       "color": "#a91e50"
     },
     {
       "name": "Shell",
-      "pct": 1.5636934561734535,
+      "pct": 1.5673092637986856,
       "color": "#89e051"
     },
     {
       "name": "PLpgSQL",
-      "pct": 0.9892924530085494,
+      "pct": 0.9865256215393038,
       "color": "#336790"
     },
     {
       "name": "Java",
-      "pct": 0.48681786299028595,
+      "pct": 0.48545634145131517,
       "color": "#b07219"
     },
     {
       "name": "Kotlin",
-      "pct": 0.37378811024604575,
+      "pct": 0.3727427078444471,
       "color": "#A97BFF"
     },
     {
       "name": "C++",
-      "pct": 0.07085112095075681,
+      "pct": 0.07065296608716544,
       "color": "#f34b7d"
     },
     {
       "name": "Dockerfile",
-      "pct": 0.048210902848413575,
+      "pct": 0.04807606765103986,
       "color": "#384d54"
     },
     {
       "name": "C",
-      "pct": 0.0013175283499014985,
+      "pct": 0.001313843515463467,
       "color": "#555555"
     }
   ],
-  "active_days": 143,
-  "window_days": 366,
+  "active_days": 144,
+  "window_days": 367,
   "longest_streak": 29,
   "biggest_day": 115,
   "biggest_date": "Jul 18",
   "born": "Dec 8, 2024",
-  "generated": "2026-09-21"
+  "generated": "2026-09-22"
 }
