@@ -1,9 +1,9 @@
 {
   "name": "Anuraj Jit Saikia",
   "login": "Anuraj-dev",
-  "contributions": 2806,
-  "commits": 1756,
-  "prs": 609,
+  "contributions": 2814,
+  "commits": 1761,
+  "prs": 612,
   "repos": 38,
   "stars": 6,
   "lang_count": 15,
@@ -84,11 +84,11 @@
       "color": "#555555"
     }
   ],
-  "active_days": 150,
-  "window_days": 371,
+  "active_days": 145,
+  "window_days": 365,
   "longest_streak": 29,
   "biggest_day": 115,
   "biggest_date": "Jul 18",
   "born": "Dec 8, 2024",
-  "generated": "2026-10-03"
+  "generated": "2026-10-04"
 }
