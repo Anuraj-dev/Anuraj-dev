@@ -1,104 +1,104 @@
 {
   "name": "Anuraj Jit Saikia",
   "login": "Anuraj-dev",
-  "contributions": 3257,
-  "commits": 2081,
-  "prs": 716,
+  "contributions": 3265,
+  "commits": 2085,
+  "prs": 720,
   "repos": 38,
-  "stars": 8,
+  "stars": 9,
   "lang_count": 17,
   "langs": [
     {
       "name": "TypeScript",
-      "pct": 35.32600336383653,
+      "pct": 35.21235471659495,
       "color": "#3178c6"
     },
     {
       "name": "Rust",
-      "pct": 30.090936636978668,
+      "pct": 30.311162859422332,
       "color": "#dea584"
     },
     {
       "name": "Python",
-      "pct": 14.659999876951568,
+      "pct": 14.612836626203457,
       "color": "#3572A5"
     },
     {
       "name": "JavaScript",
-      "pct": 3.9762476149753017,
+      "pct": 3.963455475488555,
       "color": "#f1e05a"
     },
     {
       "name": "Vue",
-      "pct": 3.728776068002716,
+      "pct": 3.7167800787697796,
       "color": "#41b883"
     },
     {
       "name": "HTML",
-      "pct": 3.656590858578129,
+      "pct": 3.6448270991651768,
       "color": "#e34c26"
     },
     {
       "name": "CSS",
-      "pct": 3.1499773898505037,
+      "pct": 3.139843476157778,
       "color": "#663399"
     },
     {
       "name": "EJS",
-      "pct": 1.5545102633928605,
+      "pct": 1.5495091884980254,
       "color": "#a91e50"
     },
     {
       "name": "Shell",
-      "pct": 1.3815166642185155,
+      "pct": 1.377072133700499,
       "color": "#89e051"
     },
     {
       "name": "Kotlin",
-      "pct": 1.0078772145833925,
+      "pct": 1.0046347339426227,
       "color": "#A97BFF"
     },
     {
       "name": "PLpgSQL",
-      "pct": 0.804832881002168,
+      "pct": 0.8022436221143348,
       "color": "#336790"
     },
     {
       "name": "Java",
-      "pct": 0.396047722796491,
+      "pct": 0.3947735823998163,
       "color": "#b07219"
     },
     {
       "name": "Svelte",
-      "pct": 0.09825128950912135,
+      "pct": 0.10261612179860026,
       "color": "#ff3e00"
     },
     {
       "name": "QML",
-      "pct": 0.07049810005529489,
+      "pct": 0.07027129789990055,
       "color": "#44a51c"
     },
     {
       "name": "C++",
-      "pct": 0.05764050016111654,
+      "pct": 0.0574550626860031,
       "color": "#f34b7d"
     },
     {
       "name": "Dockerfile",
-      "pct": 0.03922168790149358,
+      "pct": 0.039095506297347,
       "color": "#384d54"
     },
     {
       "name": "C",
-      "pct": 0.0010718672061315034,
+      "pct": 0.0010684188608221057,
       "color": "#555555"
     }
   ],
-  "active_days": 155,
-  "window_days": 369,
+  "active_days": 156,
+  "window_days": 370,
   "longest_streak": 29,
   "biggest_day": 115,
   "biggest_date": "Jul 18",
   "born": "Dec 8, 2024",
-  "generated": "2026-11-05"
+  "generated": "2026-11-06"
 }
