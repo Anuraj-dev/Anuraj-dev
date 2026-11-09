@@ -1,0 +1,42 @@
+name: Refresh README
+
+on:
+  schedule:
+    - cron: "20 1 * * *"        # every day, 01:20 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-readme
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      # github.token sees public data only; a PROFILE_TOKEN secret (classic PAT,
+      # repo + read:user) is used instead when present.
+      GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build figures and stats
+        run: python3 scripts/build_readme.py
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- README.md assets/; then
+            echo "No change today."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/
+          git commit -m "chore: refresh profile stats"
+          git push

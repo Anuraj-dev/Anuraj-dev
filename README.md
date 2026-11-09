@@ -1,65 +1,43 @@
-<div align="center">
-  <img src="./assets/space.svg" width="100%" alt="Anuraj Jit Saikia , a corner of the universe, drawn nightly from real GitHub activity" />
-</div>
+<a href="https://raja-dev.me">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img src="./assets/hero-light.svg" width="100%" alt="Anuraj-dev. I build AI systems and ship them as products. Voice dictation in Rust, realtime video, on-device Android.">
+  </picture>
+</a>
 
-<div align="center">
+<a href="https://github.com/Anuraj-dev/voisu/releases">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg">
+    <img src="./assets/metrics-light.svg" width="100%" alt="Contributions and pull requests in the past year, voisu releases and voisu downloads. Updated daily.">
+  </picture>
+</a>
 
-_Data Science @ IIT Madras · building real-time systems, dev tools &amp; full-stack web apps , somewhere among the stars_
+### [voisu](https://github.com/Anuraj-dev/voisu)
 
-</div>
+Voice dictation for Linux and Windows, written in Rust. Hold a key, speak, and the text lands where you're typing.
 
----
+<a href="https://github.com/Anuraj-dev/voisu">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/pipeline-dark.svg">
+    <img src="./assets/pipeline-light.svg" width="100%" alt="How voisu works: your voice goes to Deepgram, which streams while you talk, and to Groq Whisper, which transcribes the whole recording on release. voisu reconciles the two and puts the text at your cursor.">
+  </picture>
+</a>
 
-### About me
+<!-- stats:start -->
+`304 downloads` `34 releases` `755 commits` `MIT` Fedora COPR · AUR · apt · Windows installer · or fully local on Linux
+<!-- stats:end -->
 
-I’m a software engineering student at IIT Madras building realtime systems and full-stack products.
+### Also shipped
 
-I like working on video, voice, and collaboration tools, especially the systems that make them feel reliable and easy to use.
-
----
-
-### Tech Stack
-
-**Languages**
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend &amp; Realtime**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Data &amp; Infra**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+| Project | What it is | Built with | |
+| --- | --- | --- | --- |
+| **[A-Meet](https://github.com/Anuraj-dev/A-Meet)** | Video conferencing on a self-hosted mediasoup SFU. Simulcast, live captions, Grafana and Loki on the server. | TypeScript · mediasoup · Docker | [live](https://ameet.raja-dev.me/) |
+| **[2D Metaverse](https://github.com/Anuraj-dev/2d-metaverse)** | A walkable virtual office with proximity audio, key-gated meeting rooms and seated video calls. | TypeScript · Phaser · LiveKit | [live](https://2d-metaverse-amber.vercel.app) |
+| **[Khata](https://github.com/Anuraj-dev/Khata)** | Personal-finance PWA for India. Logs UPI spends from SMS and keeps lending and trip splits straight. | React 19 · Convex · Capacitor | [live](https://khata.raja-dev.me) |
+| **[Passport Photo](https://github.com/Anuraj-dev/passportcam)** | Android app that cuts a passport photo under 100 KB for every face in a picture. No network permission. | Kotlin · ML Kit | [APK](https://github.com/Anuraj-dev/passportcam/releases/latest) |
 
 ---
 
-### Featured Projects
-
-- **[A-Meet](https://github.com/Anuraj-dev/A-Meet)** -  A video-conferencing platform built around a mediasoup SFU, with reconnect handling, live captions, scheduled meetings, and production observability.
-- **[Voisu](https://github.com/Anuraj-dev/voisu)** -  A voice-first writing and transcription tool focused on turning spoken thoughts into reliable, usable text.
-- **[2D Metaverse](https://github.com/Anuraj-dev/2d-metaverse)** - A virtual office with proximity audio, key-gated meeting rooms, seated video calls, and browser-based games.
-- **[Khata](https://github.com/Anuraj-dev/Khata)** -  A personal-finance PWA for India that helps people track UPI spending, lending, trip expenses, and budgets.
----
-
-### Connect
-
-<p align="center">
-  <a href="mailto:rajasaikia1644@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://raja-dev.me"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-<sub>The starfield above is generated from my GitHub activity, a small signature from the work behind this profile. <a href="./scripts/generate_space_telemetry.py">See how it’s built →</a></sub>
+**Rust · TypeScript · Kotlin · Python**<br>
+Web admin at Sundarbans WebOps, IIT Madras<br>
+[raja-dev.me](https://raja-dev.me) · [LinkedIn](https://www.linkedin.com/in/anurajjitsaikia/) · [X](https://x.com/raja_saikia_) · [rajasaikia1644@gmail.com](mailto:rajasaikia1644@gmail.com)
