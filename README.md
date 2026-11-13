@@ -24,7 +24,7 @@ Voice dictation for Linux and Windows, written in Rust. Hold a key, speak, and t
 </a>
 
 <!-- stats:start -->
-`346 downloads` `36 releases` `766 commits` `MIT` Fedora COPR · AUR · apt · Windows installer · or fully local on Linux
+`353 downloads` `36 releases` `766 commits` `MIT` Fedora COPR · AUR · apt · Windows installer · or fully local on Linux
 <!-- stats:end -->
 
 ### Also shipped
